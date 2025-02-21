@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any topic
 - 📫 How to reach me ...
 - 😄 Pronouns: he
-- ⚡ Fun fact: noob
+- ⚡ Fun fact: coding is lot harder then people think
 
 <!---
 AmanKandare/AmanKandare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
